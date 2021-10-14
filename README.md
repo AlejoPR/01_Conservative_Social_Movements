@@ -6,7 +6,7 @@ In this code you will find:
 
 1. load ELSOC database
 
-2. transform database from long to wide format.
+2. transform database from wide to long format.
 
 3. recoding of variables relevant to the analysis.
 
